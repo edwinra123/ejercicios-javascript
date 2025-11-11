@@ -14,13 +14,7 @@ Este repositorio incluye ejercicios sobre:
 - Condicionales (`if`, `else`, `switch`)
 - Bucles (`for`, `while`, `do...while`)
 - Funciones
-- Arrays y métodos de arrays
+- Arrays 
 - Objetos
-- DOM (Document Object Model)
-- Eventos
-- Proyectos prácticos simples
 
----
-
-## Estructura del repositorio
 
